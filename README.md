@@ -1,1 +1,1 @@
-# git-team-practice
+# Git Team Practice
