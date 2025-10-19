@@ -1,1 +1,2 @@
 This line is from member A
+This line is from member B
