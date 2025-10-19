@@ -1,2 +1,2 @@
-This line is from member A
-This line is from member B (updated differently)
+This line is from both members (resolved)
+
